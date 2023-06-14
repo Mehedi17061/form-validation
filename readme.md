@@ -4,6 +4,8 @@ this is a tutorial for form validation with file uploadinng
 
 ## form isset with validatinon
 
+<img src="./assets/img/form.PNG">
+
 ```php
 /**
 * Student Data form

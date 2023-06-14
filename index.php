@@ -60,10 +60,10 @@
 
 
 
-<div class="container">
+<div class="container mt-4">
 
 
-   <div class="wrap shadow w-50 mx-auto">
+   <div class="wrap shadow w-50 mx-auto ">
    <div class="card ">
         <div class="card-body">
             <h2>Add New Student </h2>
